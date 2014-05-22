@@ -1,8 +1,6 @@
 ##CodeBook for getting and cleaning assignment
 
-## This code book describes how I relabeled the varibales for
-## this data set and how I relabeled the data in the "activity"
-## column
+## This code book describes how I relabeled the varibales for this data set and how I relabeled the data in the "activity"column
 
 ## Relabeling the name of the variables:
 
