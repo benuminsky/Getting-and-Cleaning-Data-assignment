@@ -29,5 +29,4 @@
 ## 5: standing
 ## 6: laying
 
-## I relabled all of the data so that instead of numbers, there were the
-## descriptive character strings.
+## I relabled all of the data so that instead of numbers, there were the descriptive character strings.
